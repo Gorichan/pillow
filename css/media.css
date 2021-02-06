@@ -417,7 +417,7 @@ font-weight: 700;
 }
 
 .delivery .delivery__content p{
-    font-size: 14px;
+    font-size: 12px;
 line-height: 15px;
 font-weight: 700;
 }
@@ -431,8 +431,11 @@ font-weight: 700;
 .form-control {
     align-items: center;
     width: 242px;
-height: 17px;
+height: 32px;
 
+}
+label {
+    font-size: 14px;
 }
 .innovationi .innovationi__img-wrap .women {
     height: 71px;
