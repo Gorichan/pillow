@@ -1,0 +1,446 @@
+@media (max-width: 1010px){
+    .stock p {
+        font-size: 2.5rem; 
+    }
+    .stock h1 {
+        font-size: 2.5rem;
+}
+    .stock span {
+    font-size: 2.5rem; 
+}
+.stock .stock__content h2 {
+    font-size: 44.4px;
+    
+}
+.stock .stock__content p {
+    font-size: 19px;
+    margin-top: 12px;
+}
+.innovationi{
+    position: relative;
+}
+.innovationi h2 {
+    font-size: 28px;
+    line-height: 34px;
+}
+img.pen-left {
+    position: absolute;
+    top: -312px;
+    left: -114px;
+    width: 137px;
+}
+img.pen-right {
+    position: absolute;
+    top: -192px;
+    right: -92px;
+    width: 137px;
+}
+.delivery .delivery__content img {
+    width: 276px;
+    height: auto;
+    
+}
+
+}
+
+@media (max-width: 973px){
+    .stock p {
+        font-size: 41px; 
+    }
+    .stock h1 {
+        font-size: 40px;
+        line-height: 19px;
+}
+    .stock span {
+    font-size: 2.5rem; 
+}
+.stock .stock__content h2 {
+    font-size: 44.4px;
+    
+}
+.stock .stock__content p {
+    font-size: 19px;
+    margin-top: 12px;
+}
+}
+
+@media (max-width: 750px){
+    .stock p {
+        font-size: 1.9rem; 
+    }
+    .stock h1 {
+        font-size: 1.9rem;
+        line-height: 19px;
+
+}
+    .stock span {
+    font-size: 1.7rem;
+    line-height: 55px;
+
+}
+.stock__content-wrap img{
+        width: 192px; 
+  }
+.stock .stock__content h2 {
+    font-size: 44.4px;
+    
+}
+.stock .stock__content p {
+    font-size: 19px;
+    margin-top: 12px;
+}
+.innovationi p {
+    margin: 13px;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+.innovationi h2 {
+    font-size: 19px;
+    line-height: 2px;
+}
+.innovationi .innovationi__img-wrap .women {
+    height: 153px;
+    
+}
+.advantages img {
+    width: 55px;
+}
+img.pen-left {
+    position: absolute;
+    top: -214px;
+    left: -86px;
+    width: 100px;
+    height: auto;
+}
+img.pen-right {
+    position: absolute;
+    top: -131px;
+    right: -57px;
+    width: 100px;
+    height: auto;
+}
+.order__form .form__wrap {
+    
+    padding: 50px 20px;
+}
+.sharacteristics .sharacteristics-wrap .sharacteristics-inner .sharacteristics-list {
+    font-size: .7rem;
+}
+.delivery .delivery__content h2 {
+    font-size: 2rem;
+    line-height: 24px;
+   
+}
+.delivery .delivery__content p {
+    font-size: 1rem;
+    margin-top: 3px;
+}
+label {
+    font-size: 1.4rem;
+}
+
+
+}
+
+@media (max-width: 693px){
+    .btn {
+        
+        font-size: 25.3px;
+        
+    }
+    img.stock-img {
+        width: 189px;
+        height: auto;
+    }
+    .delivery .delivery__content {
+        margin-top: 0px;
+    }
+    
+    .innovationi .innovationi__img-wrap .women {
+        height: 104px;
+    }
+    .sharacteristics-list {
+        line-height: 16px;
+        font-size: 16px;
+    }
+    .delivery .delivery__content p {
+        font-size: 18px;
+        color: #ff6c00;
+        font-weight: 700;
+        text-align: right;
+        margin-top: 40px;
+        line-height: 2px;
+    }
+    .delivery .delivery__content h2 {
+        font-size: 40px;
+        line-height: 0;
+       
+    }
+    .delivery .delivery__content img {
+        width: 228px;
+        height: 106px;
+    }
+    img.h2-sub {
+        margin: 5px 0;
+        width: 200px;
+        height: auto;
+    }
+    .advantages p {
+        font-size: 12px;
+    }
+    .delivery p {
+        font-size: 16px;
+        line-height: 23px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .delivery .delivery__content h2 {
+        font-size: 39px;
+        margin-top: 50px;
+        line-height: 0;
+    }
+    .form-control {
+        margin: 0 auto;
+        width: 76%;
+        
+    }
+    label {
+        
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 426px){
+    .innovationi .innovationi__img-wrap .women {
+        height: 95px;
+    }
+    img.pen-left {
+        position: absolute;
+        top: -184px;
+        left: -66px;
+        width: 74px;
+        height: auto;
+    }
+    img.pen-right {
+        
+        top: -114px;
+        right: -49px;
+        width: 74px;
+        height: auto;
+    }  
+    .stock p {
+        font-size: 23px;
+    }
+    .stock h1 {
+        font-size: 23px;
+        line-height: 19px;
+    }
+    .stock span {
+        font-size: 21px;
+        line-height: 42px;
+    }
+    .stock__content-wrap img {
+        width: 150px;
+        height: 117px;
+    }
+    .stock .stock__content h2 {
+        font-size: 34px;
+    }
+    .stock .stock__content p {
+        font-size: 12px;
+        margin-top: 12px;
+    }
+    .innovationi h2 {
+        font-size: 17px;
+        line-height: 0;
+    }
+    .advantages h2 {
+        font-size: 17px;
+        line-height: 10px;
+    }
+    .advantages p {
+        font-size: 14px;
+    }
+    .sharacteristics-wrap h2{
+        font-size: 34px;
+    }
+    .sharacteristics .sharacteristics-wrap .sharacteristics__content-wrap img {
+        width: 157px;
+        height: 100px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    
+    
+    
+}
+
+@media (max-width: 390px){
+    .header {
+        height: 40vh;
+    }
+    h2{
+        font-size: 18px;
+        line-height: 25px;
+        font-weight: 700;
+    }
+    .stock p {
+        font-size: 18px;
+line-height: 5px;
+font-weight: 400;
+    }
+    .stock h1 {
+        font-size: 19px;
+line-height: 27px;
+font-weight: 700;
+
+}
+    .stock span {
+        font-size: 19px;
+line-height: 27px;
+font-weight: 700;
+    padding: 5px 8px;
+
+}
+.stock .stock__content {
+    height: 138px;
+   
+    margin-top: 10px;
+}
+.delivery .delivery__content img {
+    width: 150px;
+    height: 80px;
+    margin-top: 50px;
+}
+img.h2-sub {
+    width: 120px;
+}
+.stock__content-wrap img{
+    width: 100%;
+    height: auto;
+  }
+.stock .stock__content h2 {
+    font-size: 20px;   
+    font-weight: 700;
+    margin-top: 0;   
+}.stock .stock__content p {
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+
+.innovationi p {
+    
+    font-size: 13px;
+    line-height: 15px;
+    font-weight: 400;
+}
+.innovationi__img-wrap img {
+    margin: 10px 35px;
+    width: 50px;
+    height: 70px;
+}
+img.pen-left {
+    position: absolute;
+    top: -200px;
+    left: -60px;
+    
+}
+.innovationi h2 {
+    font-size: 13px;
+    line-height: 0;
+}
+.sharacteristics-list {
+    line-height: 17px;
+    font-size: 13px;
+}
+.delivery .delivery__content p {
+    font-size: 10px;
+    line-height: 0px;
+    font-weight: 700;
+}
+
+
+.sharacteristics .sharacteristics-wrap .sharacteristics__content-wrap img {
+    width: 122px;
+    height: 80px;
+}
+
+.advantages__img-content {
+    margin: 5px 0 20px 0;
+    width: 50px;
+    height: auto;
+}
+.advantages p {
+    font-size: 13px;
+    line-height: 14px;
+    font-weight: 400;
+}
+.advantages img {
+    width: 50px;
+}
+.sharacteristics__content-wrap img {
+    width: 122px;
+height: 80px;
+}
+.sharacteristics-wrap h2 {
+    font-size: 30px;
+}
+ul.sharacteristics-inner {
+    font-size: 13px;
+    line-height: 14px;
+    font-weight: 400;
+}
+.sharacteristics .sharacteristics-img {
+    display: none;
+}
+.delivery .delivery__content {
+    margin-top: 0px;
+}
+.delivery p {
+    font-size: 13px;
+    line-height: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+.delivery__content img {
+    width: 146px;
+height: 81px;
+}
+.delivery .delivery__content h2 {
+    font-size: 22px;
+line-height: 0;
+font-weight: 700;
+    text-align: right;
+}
+
+.delivery .delivery__content p{
+    font-size: 14px;
+line-height: 15px;
+font-weight: 700;
+}
+
+.order__form .form__wrap h2 {
+    font-size: 19px;
+line-height: 23px;
+font-weight: 700;
+    text-align: center;
+}
+.form-control {
+    align-items: center;
+    width: 242px;
+height: 17px;
+
+}
+.innovationi .innovationi__img-wrap .women {
+    height: 71px;
+}
+img.stock-img {
+    width: 100px;
+}
+
+    
+    
+}
