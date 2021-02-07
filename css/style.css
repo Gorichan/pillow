@@ -19,6 +19,15 @@ h2 {
   text-transform: uppercase;
 }
 
+a {
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
 .btn {
   background-color: #ff6c00;
   color: #fff;
@@ -28,8 +37,8 @@ h2 {
   font-weight: 700;
   padding: 5px 64px;
   margin: 35px 0;
-  -webkit-transform: .2s;
-          transform: .2s;
+  -webkit-transform: 0.2s;
+          transform: 0.2s;
   margin: 5px auto;
 }
 
@@ -281,5 +290,50 @@ h2 {
   font-weight: 400;
   font-style: italic;
   text-align: center;
+}
+
+/* THX */
+.thx h1 {
+  font-size: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #006cff;
+  padding: 5px 40px;
+  text-align: center;
+}
+
+.thx h2 {
+  font-family: "Montserrat";
+  font-size: 44px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 43px;
+  margin-bottom: 30px;
+}
+
+.thx span {
+  font-family: "Montserrat";
+  font-size: 33px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 43px;
+}
+
+.thx .thx__wrap {
+  background-image: url(../img/Clouds.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  width: 100%;
+  padding: 100px;
+  margin-top: -60px;
+}
+
+.thx .thx__wrap img {
+  max-width: 220px;
+  height: auto;
 }
 /*# sourceMappingURL=style.css.map */

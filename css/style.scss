@@ -18,6 +18,13 @@ h2 {
   text-align: center;
   text-transform: uppercase;
 }
+a {
+  color: #fff;
+  &:hover {
+    text-decoration: none;
+    color: #fff;
+  }
+}
 .btn {
   background-color: #ff6c00;
   color: #fff;
@@ -27,14 +34,13 @@ h2 {
   font-weight: 700;
   padding: 5px 64px;
   margin: 35px 0;
-  transform: .2s;
+  transform: 0.2s;
   margin: 5px auto;
   &:hover {
     background-color: #ff6a00e0;
     color: #fff;
-    box-shadow:  none;
+    box-shadow: none;
   }
-  
 }
 
 .header {
@@ -82,7 +88,7 @@ h2 {
       display: flex;
       justify-content: space-between;
       align-items: center;
-  }
+    }
     h2 {
       font-size: 63.4px;
       line-height: 69px;
@@ -90,8 +96,7 @@ h2 {
       text-align: right;
     }
     p {
-      
-    font-size: 2.1rem;
+      font-size: 2.1rem;
 
       color: #ff6c00;
       font-weight: 700;
@@ -112,7 +117,7 @@ h2 {
     font-weight: 400;
     text-align: center;
   }
-  
+
   .innovationi__img-wrap {
     display: flex;
     justify-content: center;
@@ -201,7 +206,7 @@ h2 {
       display: flex;
       justify-content: space-between;
       align-items: center;
-  }
+    }
   }
 }
 
@@ -224,7 +229,7 @@ h2 {
   form {
     align-items: center;
     text-align: center;
-}
+  }
 
   .form-group {
     max-width: 585px;
@@ -241,3 +246,55 @@ h2 {
     }
   }
 }
+
+/* THX */
+
+
+
+
+.thx {
+  h1 {
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #006cff;
+    padding: 5px 40px;
+    text-align: center;
+  }
+  h2 {
+    font-family: "Montserrat";
+    font-size: 44px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 43px;
+    margin-bottom: 30px;
+  }
+  span {
+    font-family: "Montserrat";
+    font-size: 33px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 43px;
+    
+  }
+
+  .thx__wrap {
+    background-image: url(../img/Clouds.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    width: 100%;
+    padding: 100px;
+    margin-top: -60px;
+    img {
+      max-width: 220px;
+      height: auto;
+    }
+  }
+}
+
+
+
